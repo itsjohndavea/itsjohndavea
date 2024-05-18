@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs, Flutter, Laravel, Spring Boot and JavaFX**
 - Knowledgeable with **PHP, JAVASCRIPT, PYTHON, C#, JAVA(PRESENT JOB WITH JAVAFX), DART** Programming Language.
-- 📫 How to reach me **johndaveaquino35@gmail.com**
+- 📫 How to reach me **johndave.personal@gmail.com**
 
 <h3 align="left">Connect with me:<a href="https://twitter.com/johndaveaquino8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johndaveaquino8" height="30" width="40" /></a>
 <a href="https://fb.com/itsjohndave.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsjohndave.a" height="30" width="40" /></a>
