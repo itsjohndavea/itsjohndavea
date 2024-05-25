@@ -3,8 +3,6 @@
 <hr style="height:0.5px;width:100%;color:gray;background-color:gray">
 <h3 align="center">A passionate Software Engineer from nowhere.</h3>
 
-- 🌱 I’m currently learning **NextJs, Flutter, Laravel, Spring Boot and JavaFX**
-- Knowledgeable with **PHP, JAVASCRIPT, PYTHON, C#, JAVA(PRESENT JOB WITH JAVAFX), DART** Programming Language.
 - 📫 How to reach me **johndave.personal@gmail.com**
 
 <h3 align="left">Connect with me:<a href="https://twitter.com/johndaveaquino8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johndaveaquino8" height="30" width="40" /></a>
